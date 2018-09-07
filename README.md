@@ -1,3 +1,3 @@
 # Testlink
 
-Java连接T
+Java连接Testlink
